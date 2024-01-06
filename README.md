@@ -20,9 +20,7 @@ Your stunning travel will include:
   <h3 align="center">Travel Website</h3>
 
 So, is this just a simple landing page? Not at all.
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+
 </div>
 
 While developing the app, you’ll:
@@ -43,19 +41,6 @@ The only thing you need to follow along? The basics of React.
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-So, [watch the video now](https://youtu.be/cuzw4vL1z5E) because we’ll start simple and go through each of these skills step by step with in-depth explanations so you’ll not only learn the fundamentals but be able to create your own amazing Next.js, Tailwind, and TypeScript-powered applications. 
-## 🚨 Tutorial
-
-And don't overlook the fact that, by the end of this video, you'll have an impressive project ready to be featured in your portfolio and impress your friends, clients, and even potential employers.
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
-<a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -63,7 +48,6 @@ Built with Next.js, TailwindCSS, and TypeScript, this landing page not only look
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
