@@ -128,6 +128,9 @@ export const PEOPLE_URL = [
   '/person-4.png',
 ];
 
+const someFunction = () => {
+
+}
 // FEATURES SECTION
 export const FEATURES = [
   {
