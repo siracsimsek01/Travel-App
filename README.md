@@ -3,14 +3,13 @@
 <div align="center">
 
 ## Introduction
-If you’ve ever struggled with creating a sleek UI that also performs flawlessly, you're not alone.
   <div>
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-Your stunning travel will include:
+
 - An appealing hero section
 - A camp section featuring various camps to explore
 - An engaging travel guide section
@@ -23,16 +22,15 @@ So, is this just a simple landing page? Not at all.
 
 </div>
 
-While developing the app, you’ll:
-- implement Next.js 13 most modern best practices
-- improve your code architecture and make your components reusable
-- utilize Tailwind CSS
+
+- implemented Next.js 13 most modern best practices
+- improved  code architecture and made components reusable
+- utilized Tailwind CSS
 - start with the mobile-first approach for maximum responsiveness
 - make use of TypeScript
 - and many more best practices that set you apart in the industry
 ## 📋 <a name="table">Table of Contents</a>
 
-The only thing you need to follow along? The basics of React.
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
@@ -46,7 +44,6 @@ The only thing you need to follow along? The basics of React.
 
 Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
