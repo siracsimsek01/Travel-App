@@ -1,8 +1,10 @@
-# Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS
-<div align="center">
+## Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS
+
+<br />
+<div align="left">
 
 ## Introduction
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
@@ -15,11 +17,10 @@
 - A complex feature-rich section
 - A call to action section for mobile apps
 - And a big footer section with many site and social links
-  <h3 align="center">Travel Website</h3>
 
-So, is this just a simple landing page? Not at all.
 
-</div>
+
+
 
 
 - implemented Next.js 13 most modern best practices
@@ -28,6 +29,9 @@ So, is this just a simple landing page? Not at all.
 - start with the mobile-first approach for maximum responsiveness
 - make use of TypeScript
 - and many more best practices that set you apart in the industry
+
+ </div>
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -36,12 +40,11 @@ So, is this just a simple landing page? Not at all.
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+Built with Next.js, TailwindCSS, and TypeScript, this landing page looks great and serves as a hands-on project to reinforce one's understanding of these technologies.
 
 
 
@@ -429,8 +432,6 @@ module.exports = {
 ## <a name="links">🔗 Links</a>
 
 Assets used in the project are here [here](https://drive.google.com/file/d/10bwdMeLAl7scTjrorqtG3v2Z6b4b7S-w/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
 
 
 
